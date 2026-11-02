@@ -14,13 +14,5 @@ Drawing from qualitative primary interviews (including residents from the Batani
 1. **Terrorism & Displacement:** How local populations are caught between armed non-state actors (including foreign fighters) and government operations, giving rise to harmful racial stereotypes and forced internal displacement (e.g., to Dera Ismail Khan).
 2. **Recurring Disasters & Lack of Aid:** The severe impact of monsoon flooding along the Swat River and mountainous areas, where local communities must rebuild critical roads and infrastructure through mutual aid due to a lack of sustained government aid.
 
----
 
-## 🗂️ File Structure
 
-```text
-.
-├── paper.md                   # Full essay draft incorporating interview data and conclusion
-├── interview_notes/           # Field notes and transcriptions (DI Khan / Swat interviews)
-├── README.md                  # Project overview and documentation
-└── LICENSE                    # MIT License
